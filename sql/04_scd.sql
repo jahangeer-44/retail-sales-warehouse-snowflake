@@ -52,4 +52,3 @@ select
    WHERE customer_id = 82715872
    ORDER BY start_date DESC;
 
-    
