@@ -30,3 +30,4 @@ WHERE ss_sales_price IS NULL;
 
 SELECT COUNT(*)
 FROM SILVER.STORE_SALES_CLEAN WHERE ss_quantity <= 0;
+
